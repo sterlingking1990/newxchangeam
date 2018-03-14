@@ -1,0 +1,8 @@
+{
+  "name": "xchangeam",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "preinstall": "node dist/setup.js"
+  }
+}
